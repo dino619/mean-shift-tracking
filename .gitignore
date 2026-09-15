@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw tracking dataset
+vot2014/
+vot2016/
+ms-material/__pycache__/
+
+# Packaged/course/reference files
+Assignment2.zip
+Project-2.pdf
+Project-2-slides.pdf
+Report-example.pdf
+Intro-exercise1.pdf
+Napredne_metode_računalniškega_vida-2.pdf
+IEEE Xplore Full-Text PDF_.htm
+IEEE Xplore Full-Text PDF__files/
+friend_pages/
+*.extracted.txt
+tmp.txt
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
