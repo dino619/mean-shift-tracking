@@ -31,6 +31,18 @@ Some observations from the experiments:
 - Background modeling reduced total failures from 6 to 5 in the bonus experiment.
 - In my tests, BGR worked better than HSV, Lab, and YCrCb for this tracker setup.
 
+## Example figures
+
+Mean-shift paths from the mode-seeking experiment:
+
+![Mean-shift mode seeking paths](ms-material/mode_seeking_paths_provided_clean.png)
+
+Example good and bad tracking cases:
+
+![Hand tracking good case](hand1-good-case.png)
+
+![Hand tracking bad case](hand1-bad-case.png)
+
 ## Files
 
 ```text
